@@ -1,4 +1,7 @@
 (function() {
+  // API Configuration
+  // For local development: http://localhost:5000
+  // For production: update to your deployed backend URL
   const API_BASE = "http://localhost:5000";
   const TOKEN_KEY = "dashboardToken";
 
